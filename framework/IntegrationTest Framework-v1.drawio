@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T12:20:14.956Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="z3kQ5C1fzmm8241dIJeB" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-14T12:26:56.450Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="k5OpwcyoRv5_rxmN5Z0e" version="20.5.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1212" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
           <mxGeometry x="712" y="369" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C-iHeUXCDEazz8vT2Lmx-40" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Tools &amp;amp; Technology in Use&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;RestAssured&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;TestNG&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Java&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Hamcrest&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Allure Report&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Gradle&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Jackson API&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Lombok&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#1D3557;sketch=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="858" y="11" width="300" height="240" as="geometry" />
+          <mxGeometry x="880" y="23" width="180" height="189" as="geometry" />
         </mxCell>
         <mxCell id="C-iHeUXCDEazz8vT2Lmx-41" value="Configurable Endpoints" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="712" y="534" width="120" height="60" as="geometry" />
@@ -176,6 +176,9 @@
         </mxCell>
         <mxCell id="Qz4CMqI6DcYJkKGOj-ZE-2" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=32.5;exitPerimeter=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;curved=1;sketch=1;labelBackgroundColor=#F1FAEE;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SN1cI1Otdd67rSG5i7Jh-1" target="SN1cI1Otdd67rSG5i7Jh-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qz4CMqI6DcYJkKGOj-ZE-54" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;API Automation Framework&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;strokeColor=#36393d;fontFamily=Comic Sans MS;fontSize=12;fillColor=#cce5ff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="660" width="730" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
