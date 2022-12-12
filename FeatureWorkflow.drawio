@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T12:09:01.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.6.2" etag="vft4EjmyYjGRQC4RfIBJ" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-12T12:12:23.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.6.2" etag="xv4SVposj1laDSG3JlqE" type="github">
   <diagram id="XU266R6167Km4DB4btFk" name="Page-1">
     <mxGraphModel dx="1002" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -110,6 +110,9 @@
         </mxCell>
         <mxCell id="Fz3GwBV9MNHShb7QI4Op-51" value="E2E UI Automation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;sketch=1;hachureGap=4;jiggle=2;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="430" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fz3GwBV9MNHShb7QI4Op-55" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Architects+Daughter&quot; face=&quot;Architects Daughter&quot; style=&quot;font-size: 24px;&quot;&gt;Testing and Automation Lifecycle&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Helvetica;fontSize=12;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="90" y="30" width="390" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
